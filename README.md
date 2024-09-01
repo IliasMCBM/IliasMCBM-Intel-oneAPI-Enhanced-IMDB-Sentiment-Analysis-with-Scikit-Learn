@@ -24,6 +24,10 @@ Below is a graph that illustrates the performance improvements achieved when usi
 
 ![image](https://github.com/user-attachments/assets/802497c2-7408-425c-a205-d2f2a0b6316b)
 
+**Note:** The performance gains achieved with Intel oneAPI can vary based on several factors including the hardware configuration, dataset size, data structure, and model parameters. In my implementation, using a different dataset and setup, the observed performance improvement for SVC was X80.
+
+![image](https://github.com/user-attachments/assets/77d27ce9-1457-4efc-9f74-9d3457de99fd)
+
 ### Getting Started
 
 #### Prerequisites
