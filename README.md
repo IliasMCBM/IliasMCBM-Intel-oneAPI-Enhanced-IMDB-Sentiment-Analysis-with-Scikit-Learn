@@ -21,15 +21,18 @@ Docker: Ensure Docker is installed and running on your machine. Docker allows yo
 Installation Steps
 To run the project using Docker, follow these steps:
 
-1. Build the Docker Image
-Open your terminal or command prompt, navigate to the project directory, and build the Docker image using the following command:
-´´´bash
-docker build -t imdb_predictor .´´´
-2. Run the Docker Container
+1. **Build the Docker Image**  
+   Open your terminal or command prompt, navigate to the project directory, and build the Docker image using the following command:
+
+   ```bash
+   docker build -t imdb_predictor .``` 
+
+2. **Run the Docker Container**
 Once the image is built, run the container to execute the main.py script:
-´´´bash
+
+```bash
 docker run imdb_predictor
-´´´
+```
 Repository Structure
 IMDB_Classification.ipynb: This Jupyter Notebook contains the code for preprocessing, model training, and evaluation. It provides a detailed walkthrough of how Intel oneAPI enhances model performance.
 main.py: A standalone script that executes the sentiment analysis task, utilizing Intel oneAPI optimizations for improved performance.
