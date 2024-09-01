@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f4bea3b5-25a7-4065-bb9a-b40574d777a3" alt="Intel oneAPI Enhanced IMDB Sentiment Analysis" width="500" style="background-color: rgba(255, 255, 255, 0.7);">
+</p>
 ## ![image](https://github.com/user-attachments/assets/f4bea3b5-25a7-4065-bb9a-b40574d777a3)
 
 ### Overview
@@ -42,8 +45,10 @@ Once the image is built, run the container to execute the main.py script:
 ```bash
 docker run imdb_predictor
 ```
-Repository Structure
-IMDB_Classification.ipynb: This Jupyter Notebook contains the code for preprocessing, model training, and evaluation. It provides a detailed walkthrough of how Intel oneAPI enhances model performance.
-main.py: A standalone script that executes the sentiment analysis task, utilizing Intel oneAPI optimizations for improved performance.
-Dockerfile: A Dockerfile that sets up a containerized environment for running main.py. This ensures the project can be easily executed without worrying about dependencies, making it ideal for sharing and deploying the application.
+### Repository Structure
+
+- **IMDB_Classification.ipynb:** This Jupyter Notebook contains the code for preprocessing, model training, and evaluation. It provides a detailed walkthrough of how Intel oneAPI enhances model performance.
+- **main.py:** A standalone script that executes the sentiment analysis task, utilizing Intel oneAPI optimizations for improved performance.
+- **Dockerfile:** A Dockerfile that sets up a containerized environment for running `main.py`. This ensures the project can be easily executed without worrying about dependencies, making it ideal for sharing and deploying the application.
+Rep
 
