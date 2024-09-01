@@ -24,7 +24,7 @@ To run the project using Docker, follow these steps:
 1. Build the Docker Image
 Open your terminal or command prompt, navigate to the project directory, and build the Docker image using the following command:
 ´´´bash
-docker build -t imdb_predictor .
+docker build -t imdb_predictor .´´´
 2. Run the Docker Container
 Once the image is built, run the container to execute the main.py script:
 ´´´bash
