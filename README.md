@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f4bea3b5-25a7-4065-bb9a-b40574d777a3" alt="Intel oneAPI Enhanced IMDB Sentiment Analysis" width="500" style="background-color: rgba(255, 255, 255, 0.7);">
-</p>
-## ![image](https://github.com/user-attachments/assets/f4bea3b5-25a7-4065-bb9a-b40574d777a3)
+![image](https://github.com/user-attachments/assets/1a290a9e-66cf-406f-8c76-f86b4fc01be9)
 
 ### Overview
 
