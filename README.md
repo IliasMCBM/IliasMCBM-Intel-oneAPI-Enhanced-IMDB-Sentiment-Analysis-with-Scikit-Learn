@@ -47,7 +47,7 @@ To run the project using Docker, follow these steps:
 Once the image is built, run the container to execute the main.py script:
 
 ```bash
-docker run imdb_predictor
+  docker run imdb_predictor
 ```
 ### Repository Structure
 
